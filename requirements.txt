@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+geopandas
+shapely
+rasterio
+pydeck
+matplotlib
+scikit-learn
+openpyxl
+leafmap
+fiona
+pyproj
